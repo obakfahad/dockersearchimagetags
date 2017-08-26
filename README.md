@@ -1,2 +1,4 @@
 # dockersearchimagetags
-This script can give you function to search for images which is available public and with the tags with it. You can get list of certain image.
+By this script you can get list of tags of certain image. Normally docker search command doesn't give you functionality to find what are the available tags.
+
+Knowing exact tags can save some space and confusion.
